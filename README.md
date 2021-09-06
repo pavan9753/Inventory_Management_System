@@ -15,7 +15,7 @@
 # imported many modules
 ◙ some of them are json,time,math,emoji etc...
 # Added many functionalities in keeping view of a Inventory shop in our daily life 
-like 
+
 ◙ 1.Purchasing a product/Adding product to their cart
 
 ◙ 2.Current amount for the products in the cart
